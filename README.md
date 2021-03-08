@@ -2,7 +2,7 @@
  
  a. Solow Model: This note illustrates how to code the Solow Model in Python. The purpose of the note is to walk through Python applications, not to offer a detailed discussion of the Solow Model or to show best coding practices. The note also assumes familiarity with the Solow model and a beginner experience with Python.
 
- b. Simple Ramsey Model
+ b. Simple Ramsey Model: in progress
 
- c. AD-AS model
+ c. AD-AS model: in progress
 
